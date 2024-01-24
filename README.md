@@ -1,5 +1,5 @@
 # oldmoon
-Some text migrated from oldmoon.top
+Some Blogs migrated from oldmoon.top
 
 ## outline
 
