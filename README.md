@@ -1,5 +1,5 @@
 # oldmoon
-Some Blogs migrated from oldmoon.top
+Some Blogs migrated from [oldmoon.top](https://oldmoon.top)
 
 ## outline
 
