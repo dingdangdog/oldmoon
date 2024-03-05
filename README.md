@@ -1,7 +1,4 @@
-# oldmoon
-Some Blogs migrated from [oldmoon.top](https://oldmoon.top)
-
-## outline
+# List
 
 - [Hysteria2之Android客户端](./network/210.md)
 - [Hysteria2官方发布版本选择 | 对照表](./network/193.md)
