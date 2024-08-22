@@ -11,3 +11,4 @@
 - [搭建ShadowsocksR服务器](./network/106.md)
 - [搭建IKEv2类型代理](./network/10.md)
 - [Linux搭建pptpd代理](./network/2.md)
+- 【推荐一个非常简单的CF免费自建代理项目：[cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)，请自行辨别安全性并决定是否使用，任何问题概不负责】
